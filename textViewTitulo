@@ -1,0 +1,9 @@
+<TextView
+<!-- TextView do corpo do texto do aplicativo -->
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentTop="true"
+    android:textAppearance="?android:textAppearanceLarge"
+    android:textSize="28sp"
+/>
