@@ -1,9 +1,13 @@
-<ButtonView
-<!-- TextView do corpo do texto do aplicativo --<
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:layout_alignParentRight="true"
-    android:layout_alignParentTop="true"
-    android:textAppearance="?android:textAppearanceLarge"
-    android:textSize="28sp"
-/>
+<Button
+            android:id="@+id/simpleButtonM"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Botão"
+            android:textSize="25sp"
+            android:layout_margin="20dp"
+            android:paddingTop="20dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="20dp"
+            android:textStyle="bold"
+            android:layout_centerHorizontal="true"/>
