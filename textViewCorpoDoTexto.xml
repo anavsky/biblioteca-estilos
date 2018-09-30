@@ -3,6 +3,6 @@
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
-        android:textAppearance="?android:textAppearanceLarge"
-        android:textSize="28sp"
+        android:textSize="24sp"
+        android:padding="10dp"
 />
